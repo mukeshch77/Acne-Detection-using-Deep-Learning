@@ -1,7 +1,5 @@
 # Acne-Detection-using-Deep-Learning
 
-# Acne Detection using Deep Learning
-
 ## Project Overview
 
 This repository implements acne detection using deep learning techniques.  
